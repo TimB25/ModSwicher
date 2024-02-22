@@ -1,8 +1,5 @@
 # ModSwicher
 
----
-# Warning: Project is in progress. This is not ready to use. 
----
 
 
 # Requirements
@@ -17,4 +14,9 @@
 
 
 
+# Problems
+
+
+
+ If you find a bug with this program. Please open a isue on this github page. 
 
